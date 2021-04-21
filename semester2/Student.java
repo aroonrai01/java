@@ -1,1 +1,7 @@
-dfzgfdgbvdcxvbfdgdrftgrdf
+/**
+ * Student
+ */
+public class Student {
+
+    
+}
