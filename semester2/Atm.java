@@ -2,9 +2,9 @@ import java.util.Scanner;
 
 public class Atm {
 
-    double balance = 100000;
+    double balance = 10000;
     double amount;
-    String account = "1233455";
+    String account = "abcds";
     int pin = 1234;
     int input = 0;
 
