@@ -21,7 +21,8 @@ public class Atmm {
         double amount=sc.nextDouble();
         balance= balance-amount;
         System.out.println("success");
+        System.out.println("the balance is "+balance);
      }
-     System.out.println("the balance is "+balance);
+    
  }
 }
